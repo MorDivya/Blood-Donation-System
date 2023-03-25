@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+admin	admin.c	/^void admin()$/;"	f
+del_donor	del_donor.c	/^void del_donor()$/;"	f
+del_receiver	del_receiver.c	/^void del_receiver()$/;"	f
+donate	donate.c	/^void donate( )$/;"	f
+donor	donor.c	/^void donor()$/;"	f
+donor_reg	donor_reg.c	/^int donor_reg()$/;"	f
+isPhnValid	validate.c	/^int isPhnValid(char *phno)$/;"	f
+isvalidate	validate.c	/^int isvalidate(char *name)$/;"	f
+main	main.c	/^int main()$/;"	f
+menu	menu.c	/^void menu()$/;"	f
+menu_admin	menu_admin.c	/^void menu_admin()$/;"	f
+receiver	receiver.c	/^void receiver()$/;"	f
+receiver_reg	receiver_reg.c	/^void receiver_reg()$/;"	f
+records	record.c	/^void records( )$/;"	f
+registration	registration.c	/^void registration()$/;"	f
+search	search.c	/^void search()$/;"	f
+start	donor_reg.c	/^reg *start=NULL;$/;"	v
+update_donor	update_donor.c	/^void update_donor( )$/;"	f
+update_receiver	update_receiver.c	/^void update_receiver()$/;"	f
+view_donors	view_donors.c	/^void view_donors()$/;"	f
+view_receiver	view_receiver.c	/^int view_receiver()$/;"	f
